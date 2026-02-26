@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react'
 import Link from 'next/link' // นำเข้า Link เพื่อใช้ทำลิงก์ระหว่างหน้า
 import { HousePlus, UserSearch, BookSearch , SquareMenu, Briefcase, SquareTerminal, MessageSquare } from 'lucide-react'
